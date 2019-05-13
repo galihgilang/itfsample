@@ -1,0 +1,8 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="3edc6c8b-6501-4594-a18f-b0e04908c6bc" ml:package="com.ewckglh.demo201919" ml:version_code="1" ml:version_name="">
+  <application ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="demo_2019_19">
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <component ml:binary_name="bin/Player.elf" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="demo_2019_19">
+      <icon ml:model_folder="Icon/Model" ml:portal_folder="Icon/Portal" />
+    </component>
+  </application>
+</manifest>

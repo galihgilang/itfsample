@@ -1,0 +1,26 @@
+[
+ {
+  "dest": "bin/libil2cpp.so",
+  "src": "C:/Users/ewckglh/Documents/Magicleap/Unity/2019/demo_2019_19/Temp/StagingArea/Data/Native/libil2cpp.so"
+ },
+ {
+  "dest": "bin/UnityEngine.TestRunner.dll",
+  "src": "C:/Users/ewckglh/Documents/Magicleap/Unity/2019/demo_2019_19/Temp/StagingArea/Data/Plugins/UnityEngine.TestRunner.dll"
+ },
+ {
+  "dest": "bin/UnityMagicLeap.so",
+  "src": "C:/Users/ewckglh/Documents/Magicleap/Unity/2019/demo_2019_19/Temp/StagingArea/Data/Plugins/UnityMagicLeap.so"
+ },
+ {
+  "dest": "bin/nunit.framework.dll",
+  "src": "C:/Users/ewckglh/Documents/Magicleap/Unity/2019/demo_2019_19/Temp/StagingArea/Data/Plugins/nunit.framework.dll"
+ },
+ {
+  "dest": "bin/Player.elf",
+  "src": "C:/Users/ewckglh/Documents/Magicleap/Unity/2019/demo_2019_19/Temp/StagingArea/Player.elf"
+ },
+ {
+  "dest": "bin/libc++_shared.so",
+  "src": "C:/Users/ewckglh/MagicLeap/mlsdk/v0.19.0/lumin/stl/libc++/lib/libc++_shared.so"
+ }
+]
